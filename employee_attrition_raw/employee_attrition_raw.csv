@@ -1,0 +1,366 @@
+employee_id,age,monthly_income,years_at_company,distance_from_home,job_satisfaction,overtime,department,education,attrition
+E0001,29,6027,0,18,2,Yes,Operations,Master,Yes
+E0002,23,5455,2,14,2,No,Sales,Bachelor,No
+E0003,56,10386,13,15,4,No,Operations,High School,No
+E0004,31,6119,6,22,1,Yes,Sales,Master,Yes
+E0005,24,6440,3,8,4,Yes,Research,Bachelor,No
+E0006,26,5375,1,15,3,No,Operations,Master,No
+E0007,51,11287,20,24,2,No,Sales,Bachelor,No
+E0008,32,7328,11,16,2,No,Sales,Master,No
+E0009,36,8480,15,21,1,Yes,Sales,Bachelor,No
+E0010,42,8075,6,32,4,No,Human Resources,High School,Yes
+E0011,57,11645,17,17,4,No,Research,Bachelor,No
+E0012,25,6155,3,10,2,No,Research,High School,No
+E0013,51,,16,17,1,No,Sales,Master,No
+E0014,40,7700,13,11,4,Yes,Operations,Master,No
+E0015,33,7878,12,7,3,No,Research,Bachelor,No
+E0016,55,8744,0,21,4,Yes,Finance,Master,No
+E0017,41,7908,7,4,2,No,Finance,High School,No
+E0018,30,6487,4,31,2,Yes,Operations,Bachelor,Yes
+E0019,56,11590,22,13,3,No,Human Resources,Bachelor,No
+E0020,26,5933,5,2,2,No,Sales,Master,Yes
+E0021,26,4941,1,22,1,No,Sales,Bachelor,No
+E0022,58,10406,15,16,4,No,Sales,High School,No
+E0023,49,9257,13,30,1,No,Finance,High School,No
+E0024,37,7716,6,13,4,Yes,Sales,Bachelor,No
+E0025,26,7245,5,7,1,No,Research,High School,No
+E0026,48,10291,15,31,2,No,Finance,High School,Yes
+E0027,46,7932,8,30,3,No,Finance,Doctor,Yes
+E0028,40,7445,6,4,1,No,Sales,Bachelor,No
+E0029,55,9366,5,4,1,No,Sales,High School,No
+E0030,58,9416,7,3,1,No,Research,Bachelor,No
+E0031,35,7141,14,21,2,Yes,Sales,Bachelor,No
+E0032,22,5937,1,7,1,No,,High School,No
+E0033,26,5047,5,24,3,Yes,Operations,Master,No
+E0034,22,4378,1,20,1,No,Sales,High School,Yes
+E0035,57,8764,4,18,3,No,Operations,Bachelor,No
+E0036,25,5730,2,28,3,Yes,Research,High School,No
+E0037,32,7853,11,28,1,Yes,Finance,Master,Yes
+E0038,57,9448,4,28,2,Yes,Research,Master,No
+E0039,24,7060,3,14,2,No,Research,Bachelor,No
+E0040,37,6270,5,12,4,Yes,Operations,Bachelor,No
+E0041,37,8067,8,11,1,No,Sales,Bachelor,No
+E0042,36,8586,7,2,2,No,Sales,High School,No
+E0043,44,10508,20,26,3,No,Sales,Doctor,No
+E0044,28,8170,7,28,3,No,Research,Bachelor,No
+E0045,46,,18,13,3,Yes,Research,Bachelor,No
+E0046,34,7217,11,28,1,No,Finance,Bachelor,No
+E0047,29,7019,8,20,4,Yes,Human Resources,Bachelor,No
+E0048,33,8563,12,20,4,No,Sales,Bachelor,No
+E0049,59,11382,19,21,4,No,Human Resources,Bachelor,No
+E0050,27,5175,6,22,1,No,Operations,Master,Yes
+E0051,34,7632,4,2,1,Yes,Research,Master,No
+E0052,34,8307,13,25,4,No,Sales,Master,No
+E0053,28,5433,7,15,2,No,Human Resources,Bachelor,Yes
+E0054,30,6710,9,21,4,No,Operations,Bachelor,No
+E0055,57,10181,14,11,4,No,Operations,Master,No
+E0056,37,8593,8,29,,No,Sales,Bachelor,No
+E0057,27,5833,4,10,2,No,Sales,Bachelor,No
+E0058,25,6532,4,27,4,No,Research,Master,No
+E0059,58,11237,12,31,1,No,Research,Bachelor,No
+E0060,56,10567,19,15,4,Yes,Research,High School,No
+E0061,47,7872,5,30,2,No,Research,Master,Yes
+E0062,49,8156,4,30,2,Yes,Research,Bachelor,Yes
+E0063,46,10023,8,27,3,No,Research,Master,No
+E0064,26,6681,5,3,1,No,Sales,High School,No
+E0065,30,6116,9,8,2,No,Sales,Bachelor,No
+E0066,32,6783,9,7,1,No,Research,Master,No
+E0067,34,7207,2,16,1,No,Research,Master,No
+E0068,24,4748,3,28,3,Yes,Human Resources,High School,Yes
+E0069,53,7747,3,28,3,No,Operations,Master,No
+E0070,39,9478,18,31,4,No,Operations,Bachelor,No
+E0071,27,6431,6,29,2,No,Research,Master,Yes
+E0072,53,9434,6,23,3,No,Operations,Master,No
+E0073,22,5655,1,13,1,Yes,Research,Bachelor,No
+E0074,50,8290,0,6,3,Yes,Human Resources,Bachelor,No
+E0075,52,10123,17,23,4,No,Research,Bachelor,No
+E0076,34,7757,10,8,2,Yes,Operations,Bachelor,No
+E0077,55,10831,19,19,1,No,Research,Bachelor,No
+E0078,24,6282,1,19,2,No,Operations,High School,Yes
+E0079,40,9215,15,31,4,No,Finance,Bachelor,Yes
+E0080,53,8499,2,4,2,Yes,Research,Bachelor,No
+E0081,29,6991,8,27,2,No,Research,Master,No
+E0082,58,11792,19,4,1,No,Sales,Bachelor,No
+E0083,32,7218,7,12,1,Yes,Research,Master,Yes
+E0084,40,9595,19,30,1,No,Finance,Master,No
+E0085,34,8502,13,8,2,No,Finance,Master,No
+E0086,58,10215,9,29,1,No,Research,Bachelor,Yes
+E0087,56,10275,15,29,1,No,Operations,Master,Yes
+E0088,58,10877,18,2,3,No,Operations,High School,No
+E0089,50,8919,8,12,4,No,,High School,No
+E0090,32,8022,10,27,4,Yes,Finance,Master,No
+E0091,51,6863,2,21,3,Yes,Finance,Bachelor,No
+E0092,56,10398,14,27,1,Yes,Research,Master,No
+E0093,25,7305,4,18,2,No,Research,Master,No
+E0094,37,9961,16,11,3,No,Research,High School,No
+E0095,29,6750,8,8,2,No,Operations,Bachelor,No
+E0096,37,9711,14,10,4,Yes,Research,Master,No
+E0097,26,6430,5,27,3,No,Research,Master,No
+E0098,53,9383,4,29,4,No,Research,Bachelor,No
+E0099,42,7842,6,16,4,Yes,Operations,High School,No
+E0100,46,9437,21,10,4,No,Sales,Doctor,No
+E0101,28,6921,7,7,4,Yes,Sales,Master,No
+E0102,38,7971,10,26,1,No,Operations,Master,No
+E0103,42,9653,20,32,1,No,Sales,Master,Yes
+E0104,28,7333,7,7,4,Yes,Research,High School,No
+E0105,25,5908,4,23,3,No,Sales,Bachelor,Yes
+E0106,46,9691,19,16,4,No,Sales,Bachelor,No
+E0107,38,8322,17,1,4,No,Human Resources,High School,No
+E0108,49,10836,22,17,4,No,Sales,Bachelor,No
+E0109,37,8247,12,23,3,No,Research,Doctor,No
+E0110,25,5695,4,32,3,No,Sales,Master,Yes
+E0111,34,8017,13,17,2,No,Finance,Bachelor,No
+E0112,30,6782,2,19,3,No,Sales,High School,No
+E0113,45,9754,16,18,2,Yes,Operations,Bachelor,No
+E0114,29,6137,8,5,2,No,Sales,Master,No
+E0115,47,9078,17,24,1,No,Sales,Bachelor,No
+E0116,59,10782,12,24,1,No,Research,Bachelor,No
+E0117,42,9706,19,15,1,No,Research,Master,Yes
+E0118,24,5561,3,32,1,Yes,Operations,High School,Yes
+E0119,56,10500,13,10,4,No,Operations,Bachelor,No
+E0120,35,8137,14,29,2,No,Sales,Master,No
+E0121,44,,1,26,3,Yes,Sales,Master,No
+E0122,23,5630,1,22,2,No,Operations,Bachelor,No
+E0123,57,10373,6,14,2,Yes,Sales,Master,Yes
+E0124,30,7138,9,17,2,Yes,Operations,High School,No
+E0125,37,7896,16,21,1,Yes,Sales,Master,No
+E0126,45,9514,16,7,4,No,Finance,High School,No
+E0127,55,9559,9,30,1,Yes,Research,Bachelor,No
+E0128,26,5324,2,21,2,Yes,Sales,Bachelor,Yes
+E0129,42,9520,12,19,4,No,Research,Master,No
+E0130,57,10094,6,28,4,No,Research,Master,No
+E0131,28,7141,7,28,3,No,Research,High School,No
+E0132,27,6654,6,7,3,No,Research,Bachelor,No
+E0133,43,10326,21,8,4,No,Human Resources,Master,No
+E0134,41,8112,11,7,2,Yes,Research,Master,No
+E0135,57,10893,11,8,3,No,Operations,Master,No
+E0136,57,8362,0,18,1,Yes,Operations,Bachelor,Yes
+E0137,22,5856,1,10,4,Yes,Operations,Doctor,No
+E0138,51,9893,10,11,3,Yes,Research,Doctor,No
+E0139,25,5485,4,11,1,No,Sales,Master,No
+E0140,54,8520,3,23,4,Yes,Human Resources,Bachelor,No
+E0141,41,8011,1,15,4,No,Sales,Bachelor,No
+E0142,40,8200,10,8,1,No,Research,High School,No
+E0143,36,8267,15,23,1,No,Operations,Bachelor,No
+E0144,49,10447,18,26,4,Yes,Research,Doctor,Yes
+E0145,51,10684,22,24,1,No,,Bachelor,No
+E0146,43,8068,7,22,2,Yes,Human Resources,Bachelor,Yes
+E0147,44,9262,11,10,2,Yes,Sales,High School,Yes
+E0148,53,10524,14,29,3,No,Human Resources,High School,Yes
+E0149,50,10610,20,20,3,No,Research,High School,No
+E0150,40,7494,2,6,4,No,Research,Master,No
+E0151,50,9586,18,13,3,No,Research,Doctor,No
+E0152,27,7035,6,12,1,Yes,Research,Bachelor,No
+E0153,32,8264,11,24,3,No,Operations,Master,No
+E0154,43,7812,3,25,3,Yes,Operations,Doctor,No
+E0155,31,7501,10,6,2,No,Research,Bachelor,No
+E0156,27,6062,6,25,3,No,Human Resources,Master,No
+E0157,55,8401,2,28,3,Yes,Research,Doctor,Yes
+E0158,30,7263,4,5,3,No,Sales,Master,No
+E0159,55,8249,1,22,2,No,Sales,Bachelor,No
+E0160,50,7348,1,27,3,No,Sales,Bachelor,Yes
+E0161,50,9029,7,16,3,No,Operations,Master,No
+E0162,50,10705,14,19,4,No,Research,High School,No
+E0163,30,7865,8,4,4,No,Research,High School,No
+E0164,32,6393,8,29,2,No,Sales,Master,No
+E0165,44,7903,0,27,1,No,Research,Bachelor,Yes
+E0166,28,7151,7,22,2,Yes,Research,Master,No
+E0167,30,7383,9,31,4,No,Finance,High School,No
+E0168,55,10354,13,8,3,Yes,Sales,Bachelor,No
+E0169,51,8269,2,8,4,No,Sales,Bachelor,No
+E0170,44,8529,7,27,2,No,Sales,Doctor,Yes
+E0171,55,9981,17,2,4,No,Sales,Bachelor,No
+E0172,26,6836,5,16,1,No,Operations,Bachelor,Yes
+E0173,56,10566,10,12,4,No,Research,Bachelor,No
+E0174,24,6388,3,13,1,No,Operations,Bachelor,No
+E0175,47,9730,17,31,3,Yes,Human Resources,Bachelor,No
+E0176,39,7070,3,24,4,No,Operations,Master,No
+E0177,33,8064,12,32,3,No,Research,Master,No
+E0178,33,7886,12,19,3,Yes,Research,Bachelor,No
+E0179,49,7987,5,29,3,No,Operations,Master,No
+E0180,25,5367,2,26,3,No,Operations,High School,Yes
+E0181,50,7956,1,9,1,Yes,Human Resources,Bachelor,Yes
+E0182,50,9538,11,24,4,No,Research,Bachelor,No
+E0183,39,7639,7,8,1,No,Research,Bachelor,No
+E0184,50,8526,6,19,4,Yes,Sales,High School,Yes
+E0185,50,8316,2,21,3,No,Research,Bachelor,No
+E0186,33,7954,11,15,1,No,Operations,Bachelor,No
+E0187,45,10268,17,24,4,No,Research,Bachelor,No
+E0188,52,10400,16,27,4,No,Sales,Doctor,No
+E0189,50,10231,14,23,2,No,Operations,Bachelor,No
+E0190,25,7397,3,10,3,Yes,Research,Master,No
+E0191,55,9187,9,6,3,Yes,Finance,Bachelor,Yes
+E0192,32,7062,11,10,2,No,Operations,Bachelor,No
+E0193,58,8073,1,2,1,Yes,Human Resources,Bachelor,No
+E0194,23,4823,2,19,3,No,Operations,Master,No
+E0195,26,6167,5,4,2,No,Research,Bachelor,No
+E0196,44,8610,12,9,3,No,Sales,Bachelor,No
+E0197,50,7799,7,10,1,Yes,Finance,Master,No
+E0198,42,10386,18,21,2,No,Research,Bachelor,No
+E0199,41,9350,15,2,1,No,Research,Doctor,No
+E0200,53,11078,19,31,3,No,Operations,Bachelor,No
+E0201,45,9043,12,24,1,No,Research,Bachelor,No
+E0202,57,9788,8,8,2,No,Research,Master,No
+E0203,45,7651,4,13,4,No,Sales,High School,No
+E0204,54,9460,4,21,3,Yes,Finance,Master,Yes
+E0205,43,9731,16,32,3,No,Sales,Bachelor,No
+E0206,23,5888,2,31,3,No,Operations,Master,No
+E0207,25,5290,4,31,2,No,Operations,Master,Yes
+E0208,58,12430,22,8,2,Yes,Research,High School,No
+E0209,48,10633,16,31,1,No,Research,Bachelor,No
+E0210,33,7788,12,22,3,No,Operations,Master,No
+E0211,38,,17,31,2,No,Sales,Bachelor,No
+E0212,35,8014,14,32,3,No,Research,Master,No
+E0213,40,7382,3,25,4,No,Finance,Master,No
+E0214,44,9514,14,17,4,Yes,Operations,Bachelor,No
+E0215,39,7064,4,7,2,Yes,Human Resources,Bachelor,No
+E0216,52,8499,3,9,1,No,Finance,High School,No
+E0217,52,10414,15,13,3,Yes,Human Resources,Master,No
+E0218,24,6182,3,27,2,No,Sales,Master,No
+E0219,33,7413,9,3,1,Yes,Research,Master,No
+E0220,55,10767,15,9,4,Yes,Operations,Bachelor,No
+E0221,38,8934,17,12,1,No,Operations,Bachelor,No
+E0222,47,8982,13,21,1,No,Sales,Doctor,No
+E0223,37,6347,0,17,,Yes,Operations,Doctor,Yes
+E0224,45,11324,22,16,1,No,Research,High School,No
+E0225,41,9077,20,8,3,No,Sales,Doctor,No
+E0226,45,8993,13,31,2,No,Human Resources,Bachelor,No
+E0227,55,10481,14,24,1,No,Sales,Master,No
+E0228,32,7239,10,29,1,No,Operations,Bachelor,No
+E0229,50,7363,1,30,2,No,Research,High School,No
+E0230,47,8875,8,1,2,No,Sales,Bachelor,No
+E0231,25,5255,2,31,1,Yes,Sales,High School,No
+E0232,45,8132,12,29,4,No,Human Resources,Master,No
+E0233,44,7781,3,12,4,No,Operations,Bachelor,No
+E0234,56,10412,13,25,2,Yes,Research,Bachelor,No
+E0235,29,5302,1,27,1,Yes,Sales,Bachelor,No
+E0236,37,7051,1,26,4,Yes,Sales,Master,Yes
+E0237,54,9487,9,15,3,No,Operations,Master,No
+E0238,55,10594,7,27,3,Yes,Research,Bachelor,No
+E0239,33,7629,12,28,4,Yes,Research,Bachelor,No
+E0240,48,8910,4,20,4,Yes,Research,Bachelor,Yes
+E0241,31,7660,10,4,4,No,Research,High School,No
+E0242,50,9930,11,6,2,Yes,Research,Bachelor,Yes
+E0243,26,6721,5,14,4,Yes,Finance,Bachelor,Yes
+E0244,29,6750,8,16,2,No,Sales,Bachelor,No
+E0245,51,11649,17,23,3,Yes,Research,Bachelor,No
+E0246,42,9021,6,24,3,No,Research,Bachelor,Yes
+E0247,38,9525,17,27,3,Yes,Research,Bachelor,No
+E0248,43,7695,8,32,4,No,Operations,Bachelor,Yes
+E0249,56,10437,15,12,1,No,Operations,High School,Yes
+E0250,30,7020,9,15,1,No,Sales,Bachelor,No
+E0251,52,10660,21,32,1,Yes,Research,High School,No
+E0252,23,5518,2,28,2,Yes,Sales,High School,Yes
+E0253,55,9039,8,23,3,No,Sales,Doctor,No
+E0254,41,9993,20,6,1,Yes,Research,Bachelor,Yes
+E0255,22,4679,1,11,1,No,Research,Master,Yes
+E0256,55,7891,1,15,2,No,Human Resources,Bachelor,No
+E0257,26,6297,5,18,1,Yes,Operations,High School,No
+E0258,47,8404,2,20,2,No,Research,Master,No
+E0259,56,9556,10,25,2,No,Human Resources,High School,Yes
+E0260,36,6601,2,22,4,No,Research,Bachelor,No
+E0261,50,9663,15,15,3,No,Research,Bachelor,No
+E0262,40,7848,7,5,1,Yes,Research,Master,Yes
+E0263,46,8987,10,24,1,Yes,Finance,Bachelor,Yes
+E0264,49,9634,14,27,1,Yes,Research,High School,No
+E0265,42,7131,12,1,3,No,Operations,Master,No
+E0266,55,8678,5,25,2,Yes,Research,Bachelor,Yes
+E0267,49,8860,8,27,3,No,Sales,Bachelor,No
+E0268,34,8948,13,7,2,Yes,Finance,Bachelor,No
+E0269,43,9304,14,22,4,No,Operations,Doctor,No
+E0270,34,8565,13,21,2,No,Finance,Bachelor,No
+E0271,53,10980,18,16,3,No,Operations,Bachelor,No
+E0272,56,9559,5,2,4,No,Sales,Master,No
+E0273,26,6071,5,32,2,No,Sales,Bachelor,Yes
+E0274,52,9484,18,26,4,No,Operations,Bachelor,No
+E0275,56,10645,19,6,1,No,Human Resources,Bachelor,No
+E0276,47,8790,10,28,1,Yes,Sales,Bachelor,Yes
+E0277,59,11756,22,15,4,No,Research,Master,No
+E0278,52,8203,3,19,4,No,Sales,Master,No
+E0279,44,9430,9,22,4,No,Research,Bachelor,No
+E0280,26,6998,5,3,1,Yes,Research,High School,No
+E0281,37,9211,16,12,2,Yes,Research,Bachelor,No
+E0282,49,8914,12,2,2,No,Research,High School,No
+E0283,39,9528,18,5,1,No,Research,Bachelor,No
+E0284,53,10756,16,21,4,No,Research,Bachelor,No
+E0285,33,8467,12,20,1,No,Research,Bachelor,Yes
+E0286,46,9797,13,9,4,No,Research,Bachelor,No
+E0287,33,7083,12,11,4,Yes,Sales,Master,No
+E0288,53,8244,4,13,4,No,Research,Bachelor,No
+E0289,48,10844,22,29,4,Yes,Research,Master,No
+E0290,40,7731,5,30,4,No,Sales,High School,No
+E0291,45,10203,17,3,4,No,Finance,High School,No
+E0292,24,5059,3,17,3,No,Sales,Master,Yes
+E0293,37,7493,6,23,4,Yes,Sales,Bachelor,No
+E0294,39,9620,18,11,3,No,Research,Bachelor,No
+E0295,54,12003,21,7,2,No,Operations,Master,No
+E0296,30,6810,7,10,3,No,Operations,Master,No
+E0297,58,11322,20,18,4,No,Sales,Master,No
+E0298,45,8670,14,32,3,No,Operations,Master,Yes
+E0299,51,11120,20,23,1,No,Research,Doctor,No
+E0300,40,7658,10,9,4,No,Operations,Master,No
+E0301,51,8229,0,8,2,No,Sales,Doctor,Yes
+E0302,41,8453,5,18,1,No,Sales,Bachelor,No
+E0303,32,6465,1,26,3,No,Operations,Bachelor,Yes
+E0304,26,6066,4,15,4,Yes,Human Resources,Master,No
+E0305,49,11275,22,9,4,Yes,Research,Master,No
+E0306,30,7690,9,9,2,Yes,Research,Bachelor,Yes
+E0307,44,8587,6,10,4,No,Research,Bachelor,No
+E0308,46,8777,11,28,3,No,Sales,Bachelor,No
+E0309,40,9087,19,2,3,Yes,Research,Bachelor,No
+E0310,37,8886,15,25,1,Yes,Human Resources,High School,No
+E0311,22,5013,1,21,2,No,Operations,Bachelor,No
+E0312,26,5528,0,5,1,Yes,Sales,High School,No
+E0313,54,9137,9,27,4,No,Sales,Bachelor,No
+E0314,54,8580,6,10,3,No,Human Resources,Master,No
+E0315,26,5587,5,28,2,Yes,Sales,Bachelor,Yes
+E0316,33,6880,3,1,2,No,Sales,Doctor,No
+E0317,38,8182,5,24,2,No,Operations,Master,No
+E0318,49,9848,8,5,3,No,Research,High School,No
+E0319,45,6810,1,32,2,No,Sales,High School,Yes
+E0320,54,8156,0,3,1,Yes,Research,Bachelor,Yes
+E0321,24,6042,3,27,2,Yes,Research,Master,Yes
+E0322,54,11467,21,4,2,Yes,Research,High School,No
+E0323,51,9179,9,20,3,Yes,Research,Bachelor,No
+E0324,37,9315,14,24,4,No,Operations,Master,No
+E0325,37,7409,4,1,4,Yes,Research,Bachelor,No
+E0326,46,8622,9,7,2,No,Sales,Bachelor,Yes
+E0327,31,6450,10,18,1,Yes,Sales,Master,Yes
+E0328,27,7319,6,7,2,No,Research,Bachelor,Yes
+E0329,30,7287,7,19,3,No,Finance,Bachelor,No
+E0330,36,6677,2,13,2,No,Research,High School,No
+E0331,51,9298,10,27,1,No,Finance,Bachelor,Yes
+E0332,32,7950,11,20,1,Yes,Operations,High School,No
+E0333,44,8569,12,4,3,Yes,Finance,High School,No
+E0334,37,7377,3,30,1,No,Sales,High School,No
+E0335,36,6540,4,13,4,No,Human Resources,Bachelor,No
+E0336,23,5395,2,13,4,No,Sales,Master,No
+E0337,29,6184,1,30,1,Yes,Research,Master,Yes
+E0338,33,8042,11,14,2,Yes,Research,High School,No
+E0339,37,8942,16,19,4,No,Research,High School,No
+E0340,55,9812,7,2,4,No,Research,Bachelor,No
+E0341,58,11672,16,21,4,Yes,Sales,Bachelor,No
+E0342,52,10343,16,23,2,No,Sales,Bachelor,No
+E0343,25,6233,4,25,3,No,Finance,High School,No
+E0344,44,10373,18,2,3,No,Research,Bachelor,No
+E0345,53,10518,17,20,2,No,Sales,Bachelor,Yes
+E0346,34,7473,4,22,2,No,Operations,Bachelor,Yes
+E0347,59,10695,22,10,1,No,Operations,Doctor,No
+E0348,28,7604,7,20,3,Yes,Sales,Doctor,No
+E0349,53,10665,20,21,2,No,Research,Master,No
+E0350,33,7474,12,20,3,Yes,Operations,Doctor,No
+E0351,47,10227,18,3,2,No,Finance,Doctor,No
+E0352,31,8305,10,5,2,No,Research,Bachelor,No
+E0353,43,9046,14,1,3,Yes,Human Resources,Bachelor,Yes
+E0354,50,9032,13,11,4,No,Research,Bachelor,No
+E0355,52,10781,18,15,2,No,Operations,High School,No
+E0356,43,8185,5,25,2,No,Research,Master,Yes
+E0357,52,11082,22,2,4,No,Sales,Master,No
+E0358,34,8270,13,17,3,Yes,Sales,Bachelor,No
+E0359,53,8284,4,4,3,Yes,Sales,Master,Yes
+E0360,35,6704,5,19,1,No,Sales,Master,No
+E0001,29,6027,0,18,2,Yes,Operations,Master,Yes
+E0002,23,5455,2,14,2,No,Sales,Bachelor,No
+E0003,56,10386,13,15,4,No,Operations,High School,No
+E0004,31,6119,6,22,1,Yes,Sales,Master,Yes
+E0005,24,6440,3,8,4,Yes,Research,Bachelor,No
